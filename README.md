@@ -1,13 +1,13 @@
 # Gagarin_Hack (2 место)
 
-*Misis status.md team*
+*MISIS status.md team*
 
 Team Members:
-1) Анна Гулякина - Design
-2) Кирилл Рыжичкин - ML Engineer
-3) Дмитрий Коноплянников - Frontend
-4) Егор Чистов - Backend
-5) Груздев Александр - ML Engineer
+1) **Анна Гулякина** - Design
+2) **Кирилл Рыжичкин** - ML Engineer
+3) **Дмитрий Коноплянников** - Frontend
+4) **Егор Чистов** - Backend
+5) **Груздев Александр** - ML Engineer
 
 Презентация: [link](https://drive.google.com/file/d/1vJ0X-JfoluRvPUIFfoUK5ky-yRLLL6GU/view?usp=sharing)
 
